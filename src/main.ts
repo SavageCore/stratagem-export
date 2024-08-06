@@ -10,7 +10,7 @@ const missMatchedNames = {
     'Eagle Napalm Strike': 'Eagle Napalm Airstrike',
     'Orbital Railgun Strike': 'Orbital Railcannon Strike',
     'Reinforcement': 'Reinforce',
-    'Shield Generator': 'Shield Generator Pack',
+    'Shield Generator': 'Shield Generator Relay',
 }
 
 const exportSequences = async () => {
